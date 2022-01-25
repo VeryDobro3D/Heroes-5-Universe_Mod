@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BasicSkelAnim>
+	<SrcName href="/H5A1/Models/Creatures/Neutrals/Wolf.mb"/>
+	<uid>C6A3E7A6-4562-432A-9BEF-28B2C0D4AC27</uid>
+	<ExpSrcClip href="/H5A1/Animations/Creatures/Neutrals/Wolf/Clip/Wolf.specability.ma"/>
+	<ExpRootTransform>Global</ExpRootTransform>
+	<ExpFrameFirst>0</ExpFrameFirst>
+	<ExpFrameLast>0</ExpFrameLast>
+	<ExpSettingsFile href=""/>
+	<MovementSpeed>0</MovementSpeed>
+	<SpeedFactor>1</SpeedFactor>
+	<Sound href="/Sounds/_(Sound)/Creatures/Neutrals/H5A1/Wolf/specability.xdb#xpointer(/Sound)"/>
+	<Effect/>
+	<SpeedLineFallTime>250</SpeedLineFallTime>
+	<SpeedLineMaterial/>
+</BasicSkelAnim>

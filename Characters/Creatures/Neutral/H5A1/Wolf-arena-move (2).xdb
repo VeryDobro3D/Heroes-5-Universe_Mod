@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BasicSkelAnim>
+	<SrcName href="/H5A1/Models/Creatures/Neutrals/Wolf.mb"/>
+	<uid>1CAB759D-FCB3-45D4-B304-DA03531FA421</uid>
+	<ExpSrcClip href="/H5A1/Animations/Creatures/Neutrals/Wolf/Clip/Wolf.move.ma"/>
+	<ExpRootTransform>Global</ExpRootTransform>
+	<ExpFrameFirst>0</ExpFrameFirst>
+	<ExpFrameLast>0</ExpFrameLast>
+	<ExpSettingsFile href="/H:/Tools/MayaExportSettings/settings_character_anim.ges"/>
+	<MovementSpeed>19.3624</MovementSpeed>
+	<SpeedFactor>0.9</SpeedFactor>
+	<Sound href="/Sounds/_(Sound)/Creatures/Neutrals/H5A1/Wolf/move.xdb#xpointer(/Sound)"/>
+	<Effect/>
+	<SpeedLineFallTime>250</SpeedLineFallTime>
+	<SpeedLineMaterial/>
+</BasicSkelAnim>

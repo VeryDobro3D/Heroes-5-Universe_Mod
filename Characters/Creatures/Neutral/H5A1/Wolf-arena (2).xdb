@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnimSet>
+	<animations>
+		<Item>
+			<Kind>idle00</Kind>
+			<Anim href="Wolf-arena-idle00 (2).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>attack00</Kind>
+			<Anim href="Wolf-arena-attack00 (2).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>hit</Kind>
+			<Anim href="Wolf-arena-hit (2).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>death</Kind>
+			<Anim href="Wolf-arena-death (2).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>move</Kind>
+			<Anim href="Wolf-arena-move (2).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>specability</Kind>
+			<Anim href="Wolf-arena-specability (2).xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+	</animations>
+	<ExpSrcScene href="/H5A1/Models/Creatures/Neutrals/Wolf.mb"/>
+	<ExpSrcClipFolder href="/H5A1/Animations/Creatures/Neutrals/Wolf/Clip/"/>
+	<ExpRootTransform>Global</ExpRootTransform>
+</AnimSet>
